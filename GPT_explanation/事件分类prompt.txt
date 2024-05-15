@@ -1,0 +1,24 @@
+TEXT: Lt. Col. Thomas Collins, a spokesman for the U.S. Army's Southern European Task Force, refused to say whether the paratroopers deployed directly from Italy into Iraq or had taken a different route.
+EVENT TYPES: Movement.Transport
+EXPLANATION: "Paratroopers deployed from Italy to Iraq" shows there is an event "Transport" belongs to "Movement" occurred in the text.
+
+TEXT: Columnist Michelle Malkin is one of the few columnists/bloggers who has picked up on the story.
+EVENT TYPES: None
+EXPLANATION: There are no events in given sentence above.
+
+TEXT: That's why his father didn't want to invade Iraq, because of all these problems they're having now.
+EVENT TYPES: Conflict.Attack
+EXPLANATION: "His father didn't want to invade Iraq" shows there is an event "Attack" belongs to "Conflict" occurred in the text.
+
+TEXT: The "suspicious evidence" is simply that Arafat did not look particularly near death when he was removed from his HQ.
+EVENT TYPES: Life.Die,Movement.Transport
+EXPLANATION: "Arafat did not look particularly near death" shows there is an event "Die" belongs to "Life" occurred in the text.
+"He was removed from his HQ" shows there is an event "Transport" belongs to "Movement" occurred in the text.
+
+TEXT: Russian President Vladimir Putin's summit with the leaders of Germany and France may have been a failure that proves there can be no long-term "peace camp" alliance following the end of war in Iraq, government sources were quoted as saying at the weekend.
+EVENT TYPES: Contact.Meet
+EXPLANATION: "Vladimir Putin's summit with the leaders of Germany and France" shows there is an event "Meet" belongs to "Contact" occurred in the text.
+
+TEXT: %s
+EVENT TYPES: %s
+EXPLANATION: 

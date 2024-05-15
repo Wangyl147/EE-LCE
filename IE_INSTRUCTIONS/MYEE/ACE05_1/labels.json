@@ -1,0 +1,4 @@
+[   
+    "Business.Declare-Bankruptcy, Business.End-Org, Business.Merge-Org, Business.Start-Org, Conflict.Attack, Conflict.Demonstrate, Contact.Meet, Contact.Phone-Write, Justice.Acquit, Justice.Appeal, Justice.Arrest-Jail, Justice.Charge-Indict, Justice.Convict, Justice.Execute, Justice.Extradite, Justice.Fine, Justice.Pardon, Justice.Release-Parole, Justice.Sentence, Justice.Sue, Justice.Trial-Hearing, Life.Be-Born, Life.Die, Life.Divorce, Life.Injure, Life.Marry, Movement.Transport, Personnel.Elect, Personnel.End-Position, Personnel.Nominate, Personnel.Start-Position, Transaction.Transfer-Money, Transaction.Transfer-Ownership",
+    "Beneficiary, Victim, Agent, Seller, Plaintiff, Buyer, Person, Target, Place, Adjudicator, Artifact, Vehicle, Defendant, Prosecutor, Attacker, Giver, Instrument, Destination, Entity, Recipient, Origin, Org"
+]

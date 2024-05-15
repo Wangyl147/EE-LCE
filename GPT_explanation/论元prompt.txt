@@ -1,0 +1,41 @@
+TEXT: Lt. Col. Thomas Collins, a spokesman for the U.S. Army's Southern European Task Force, refused to say whether the paratroopers deployed directly from Italy into Iraq or had taken a different route.
+EVENT_TYPE: Movement.Transport
+ARGUMENT_ROLE: Destination
+ARGUMENT: Iraq
+EXPLANATION: Paratroopers deployed directly from Italy into Iraq, so the "Destination" of the event "Transport" belongs to "Movement" is "Iraq".
+
+TEXT: Lt. Col. Thomas Collins, a spokesman for the U.S. Army's Southern European Task Force, refused to say whether the paratroopers deployed directly from Italy into Iraq or had taken a different route.
+EVENT_TYPE: Movement.Transport
+ARGUMENT_ROLE: Origin
+ARGUMENT: Italy
+EXPLANATION: Paratroopers deployed directly from Italy into Iraq, so the "Origin" of the event "Transport" belongs to "Movement" is "Italy".
+
+TEXT: Lt. Col. Thomas Collins, a spokesman for the U.S. Army's Southern European Task Force, refused to say whether the paratroopers deployed directly from Italy into Iraq or had taken a different route.
+EVENT_TYPE: Movement.Transport
+ARGUMENT_ROLE: Vehicle
+ARGUMENT: None
+EXPLANATION: The text doesn't mention the vehicle of the event "Transport" belongs to "Movement" , so the "Vehicle" of the event "Transport" belongs to "Movement" is None.
+
+TEXT: That's why his father didn't want to invade Iraq, because of all these problems they're having now.
+EVENT_TYPE: Conflict.Attack
+ARGUMENT_ROLE: Attacker
+ARGUMENT: his father
+EXPLANATION: His father didn't want to invade Iraq, but he did, so the "Attacker" of the event "Attack" belongs to "Conflict" is "his father".
+
+TEXT: That's why his father didn't want to invade Iraq, because of all these problems they're having now.
+EVENT_TYPE: Conflict.Attack
+ARGUMENT_ROLE: Place
+ARGUMENT: Iraq
+EXPLANATION: His father invaded Iraqis in Iraq, so the "Place" of the event "Attack" belongs to "Conflict" is "Iraq".
+
+TEXT: That's why his father didn't want to invade Iraq, because of all these problems they're having now.
+EVENT_TYPE: Conflict.Attack
+ARGUMENT_ROLE: Victim
+ARGUMENT: None
+EXPLANATION: The text doesn't mention the victim of the event "Attack" belongs to "Conflict" , so the "Victim" of the event "Attack" belongs to "Conflict" is None.
+
+TEXT: %s
+EVENT_TYPE: %s
+ARGUMENT_ROLE: %s
+ARGUMENT: %s
+EXPLANATION:

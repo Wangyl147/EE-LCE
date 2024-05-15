@@ -1,0 +1,10 @@
+{"Text":"Former senior banker Callum McCarthy begins what is one of the most important jobs in London 's financial world in September , when incumbent Howard Davies steps down .","Prediction":" Personnel.Start-Position: begins","result":"FN","answer":"FN"}
+{"Text":"Former senior banker Callum McCarthy begins what is one of the most important jobs in London 's financial world in September , when incumbent Howard Davies steps down .","Prediction":" Personnel.End-Position: moves","result":"FP","answer":"FP"}
+{"Text":"Davies is leaving to become chairman of the London School of Economics , one of the best - known parts of the University of London .","Prediction":" Personnel.Start-Position: become","result":"FN","answer":"FN"}
+{"Text":"McCarthy currently heads the Office of Gas and Electricity Markets , or Ofgem , which regulates Britain 's privatised energy industry .","Prediction":" Personnel.End-Position: heads.","result":"FP","answer":"FP"}
+{"Text":"As well as previously holding senior positions at Barclays Bank , BZW and Kleinwort Benson , McCarthy was formerly a top civil servant at the Department of Trade and Industry .","Prediction":" Personnel.End-Position: previously","result":"FN","answer":"FN"}
+
+{"Text":"","Prediction":"","result":"FP","answer":"FP"}
+
+{"Text":"Russian President Vladimir Putin 's summit with the leaders of Germany and France may have been a failure that proves there can be no long - term \" peace camp \" alliance following the end of war in Iraq , government sources were quoted as saying at the weekend .","Prediction":"Conflict.Attack: war.","result":"FN","answer":"FN"}
+{"Text":"Kommersant business daily joined in , declaring in a furious front - page headline : \" The United States is demanding that Russia , France and Germany pay for the Iraqi war . \"","Prediction":"Transaction.Transfer-Money: pay","result":"FN","answer":"FN"}

@@ -1,0 +1,21 @@
+{
+    "MYEEA": [
+
+        {
+            "sampling strategy": "full",
+            "dataset name": "ACE05_1"
+        }
+    ],
+    "MYEET": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "ACE05_1"
+        }
+    ],
+    "MYEE": [
+        {
+            "sampling strategy": "full",
+            "dataset name": "ACE05_1"
+        }
+    ]
+}

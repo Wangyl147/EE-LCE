@@ -1,0 +1,30 @@
+TEXT: Lt. Col. Thomas Collins, a spokesman for the U.S. Army's Southern European Task Force, refused to say whether the paratroopers deployed directly from Italy into Iraq or had taken a different route.
+EVENT TYPE: Movement.Transport
+TRIGGER: deployed
+EXPLANATION: The word "deployed" triggers the event "Transport" belongs to "Movement", which means paratroopers are transported from Italy to Iraq.
+
+TEXT: That's why his father didn't want to invade Iraq, because of all these problems they're having now.
+EVENT TYPE: Conflict.Attack
+TRIGGER: invade
+EXPLANATION: The word "invade" triggers the event "Attack" belongs to "Conflict", which means Iraq is invaded by his father.
+
+TEXT: The "suspicious evidence" is simply that Arafat did not look particularly near death when he was removed from his HQ.
+EVENT TYPE: Life.Die
+TRIGGER: death
+EXPLANATION: The word "death" triggers the event "Die" belongs to "Life", which means Arafat is dying.
+
+TEXT: The "suspicious evidence" is simply that Arafat did not look particularly near death when he was removed from his HQ.
+EVENT TYPE: Movement.Transport
+TRIGGER: removed
+EXPLANATION: The word "removed" triggers the event "Transport" belongs to "Movement", the event means Arafat has left his HQ.
+
+TEXT: Russian President Vladimir Putin's summit with the leaders of Germany and France may have been a failure that proves there can be no long-term "peace camp" alliance following the end of war in Iraq, government sources were quoted as saying at the weekend.
+EVENT TYPE: Contact.Meet
+TRIGGER: summit
+EXPLANATION: The word "summit" triggers the event "Meet" belongs to "Contact", which means Putin met with leaders of other countries.
+
+
+TEXT: %s
+EVENT TYPE: %s
+TRIGGER: %s
+EXPLANATION:
